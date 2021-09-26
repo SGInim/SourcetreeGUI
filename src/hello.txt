@@ -1,1 +1,2 @@
 This GUI looks pretty neat
+So much that I'm gonna be using this instead of terminal
